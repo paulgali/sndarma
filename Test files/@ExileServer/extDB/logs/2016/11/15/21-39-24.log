@@ -1,0 +1,37 @@
+extDB2: Version: 70
+extDB2: https://github.com/Torndeco/extDB2
+extDB2: Windows Version
+Message: All development for extDB2 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB2 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 20/02/15
+
+
+extDB2: Found extdb-conf.ini
+extDB2: Detected 8 Cores, Setting up 6 Worker Threads
+
+
+[13:39:24:152944 --7:00] [Thread 6860] extDB2: Database Type: MySQL
+[13:39:24:156038 --7:00] [Thread 6860] extDB2: Database Session Pool Started
+[13:39:24:162630 --7:00] [Thread 6860] extDB2: SQL_CUSTOM_V2: Loading Template Filename: C:\TCAFiles\Users\PaulA\1157\@ExileServer\extDB\sql_custom_v2\exile.ini
+[13:39:24:163330 --7:00] [Thread 6860] extDB2: SQL_CUSTOM_V2: Version 12 Detected, Latest Version 12 Available
+[13:39:25:292853 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:CONNECTLOG:infiSTAR_PlayerConnected_id  1
+[13:39:25:292931 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[13:39:25:293067 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:CONNECTLOG:infiSTAR_PlayerDisconnected_id  0
+[13:39:25:293096 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[13:39:25:295325 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SERVER_INFO:[SERVER START] TIME  0 || EMAIL  paulgali@icloud.com || VERSION  14-Nov-2016 20-15-02 - v0065a || Local Server Time  [2016,11,15,13,39]
+[13:39:25:295386 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[13:39:25:469397 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:CONNECTLOG:#0 Connected  __SERVER__( - 2)
+[13:39:25:469440 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[13:40:05:302358 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:CONNECTLOG:#0 Connected  paulgali(76561198045911270 - 3)
+[13:40:05:302423 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[13:40:05:302982 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:TOKENLOG:TOKEN [xh51hmvnd301ol] FOR paulgali(76561198045911270) OWNER ID  3
+[13:40:05:303022 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[13:40:07:759198 --7:00] [Thread 1336] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:CONNECTLOG:#1 Connected  paulgali(76561198045911270 - 3) SteamName  paulgali395   [UpTime  0h 0min 18s - ServerFPS  19.7531]
+[13:40:07:759248 --7:00] [Thread 1336] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[13:40:37:338306 --7:00] [Thread 1336] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:netids:paulgali(76561198045911270) - R admin 1 (paulgali) REMOTE, Exile_Unit_Player - 2 1255 - 3
+[13:40:37:338365 --7:00] [Thread 1336] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[13:41:20:771247 --7:00] [Thread 1336] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:CONNECTLOG:#2 Disconnected  paulgali(76561198045911270 - 3) SteamName  paulgali395
+[13:41:20:771306 --7:00] [Thread 1336] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog

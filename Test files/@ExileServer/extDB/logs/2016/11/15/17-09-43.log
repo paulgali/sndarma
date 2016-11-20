@@ -1,0 +1,323 @@
+extDB2: Version: 70
+extDB2: https://github.com/Torndeco/extDB2
+extDB2: Windows Version
+Message: All development for extDB2 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB2 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 20/02/15
+
+
+extDB2: Found extdb-conf.ini
+extDB2: Detected 8 Cores, Setting up 6 Worker Threads
+
+
+[09:09:43:491180 --7:00] [Thread 4180] extDB2: Database Type: MySQL
+[09:09:43:494078 --7:00] [Thread 4180] extDB2: Database Session Pool Started
+[09:09:43:499365 --7:00] [Thread 4180] extDB2: SQL_CUSTOM_V2: Loading Template Filename: C:\TCAFiles\Users\PaulA\1157\@ExileServer\extDB\sql_custom_v2\exile.ini
+[09:09:43:499912 --7:00] [Thread 4180] extDB2: SQL_CUSTOM_V2: Version 12 Detected, Latest Version 12 Available
+[09:09:44:296835 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:CONNECTLOG:infiSTAR_PlayerConnected_id  1
+[09:09:44:296891 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:09:44:297053 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:CONNECTLOG:infiSTAR_PlayerDisconnected_id  0
+[09:09:44:297083 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:09:44:298424 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:SERVER_INFO:[SERVER START] TIME  0 || EMAIL  paulgali@icloud.com || VERSION  14-Nov-2016 20-15-02 - v0065a || Local Server Time  [2016,11,15,9,9]
+[09:09:44:298461 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:09:44:481590 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:CONNECTLOG:#0 Connected  __SERVER__( - 2)
+[09:09:44:481633 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:12:49:908061 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) =============================================================================================================
+[09:12:49:908133 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:12:49:908350 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION MOD]  Occupation V65 (30-08-2016) Initialised at 177.974
+[09:12:49:908397 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:12:49:908613 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) =============================================================================================================
+[09:12:49:908661 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:12:49:933110 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION Traders] starting @ 177.997
+[09:12:49:933174 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:12:49:954470 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [processReporter]  Initialised at 177.997
+[09:12:49:954556 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:12:49:956328 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION]  Detected DMS version April 27, 2016
+[09:12:49:956479 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:12:49:956650 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION]  Occupation V65 (30-08-2016) Adding modules to Exile system thread manager at 178.018
+[09:12:49:956697 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:13:54:493931 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:CONNECTLOG:#0 Connected  swemg(76561198003530549 - 3)
+[09:13:54:493989 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:13:54:494662 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:TOKENLOG:TOKEN [b6i5lr4lp8l9bq20u] FOR swemg(76561198003530549) OWNER ID  3
+[09:13:54:494713 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:13:55:727564 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION LootCrates]  Starting Occupation Loot Crates
+[09:13:55:727618 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:13:55:727935 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION LootCrates]  worldname  Tanoa crates to spawn  6
+[09:13:55:727976 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:13:59:238735 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:netids:swemg(76561198003530549) - R Alpha 1-1 1 (swemg) REMOTE, Exile_Unit_GhostPlayer - 2 1263 - 3
+[09:13:59:238793 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:13:59:807154 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION LootCrates]   Creating crate 1 at drop zone [3470.66,12751.7,0] with 2 guards
+[09:13:59:807220 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:02:130235 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION LootCrates]   Creating crate 2 at drop zone [6457.71,12337.6,0] with 1 guards
+[09:14:02:130284 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:04:174591 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION LootCrates]   Creating crate 3 at drop zone [3649.04,11678.9,0] with 1 guards
+[09:14:04:174660 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:06:763665 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION LootCrates]   Creating crate 4 at drop zone [11927.5,10893.7,0] with 1 guards
+[09:14:06:763738 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:08:859434 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:CONNECTLOG:#1 Connected  swemg(76561198003530549 - 3) SteamName  swemg   [UpTime  0h 3min 55s - ServerFPS  23.1884]
+[09:14:08:859632 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:09:260670 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION LootCrates]   Creating crate 5 at drop zone [11106.7,2785.26,0] with 2 guards
+[09:14:09:260717 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:12:107865 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) =======================================================================================================
+[09:14:12:108167 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:12:108511 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Started @ 238.271   [FPS  40.1003|PLAYERS  1|THREADS  7]
+[09:14:12:108526 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:12:108740 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) =======================================================================================================
+[09:14:12:108773 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:12:108997 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Process Counts  spawn-ed  6 execVM-ed  1 exec-ed  0 execFSM-ed  2
+[09:14:12:109028 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:12:109196 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["<spawn>","",true,5362] @ 238.271
+[09:14:12:109227 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:12:109368 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["<spawn>","",true,37] @ 238.271
+[09:14:12:109400 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:12:109536 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["<spawn>","",true,78] @ 238.271
+[09:14:12:109567 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:12:109703 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["<spawn>","",true,25] @ 238.271
+[09:14:12:109735 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:12:109898 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 238.271
+[09:14:12:109930 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:12:110073 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["ZCP_fnc_start","x\addons\ZCP\functions\fn_start.sqf",true,56] @ 238.271
+[09:14:12:110108 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:12:155124 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["BIS_fnc_sortNum","A3\functions_f\misc\fn_findSafePos.sqf",true,108] @ 238.271
+[09:14:12:155211 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:12:155749 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active FSM  ["main.fsm","Wait",-238.314] @ 238.314
+[09:14:12:155802 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:12:156205 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active FSM  ["missions","Waiting",-238.314] @ 238.314
+[09:14:12:156239 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:12:156665 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Ended @ 238.314
+[09:14:12:156701 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:13:353661 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION LootCrates]   Creating crate 6 at drop zone [11378.8,11063,0] with 1 guards
+[09:14:13:353727 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:23:670405 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:netids:swemg(76561198003530549) - R admin 1 (swemg) REMOTE, Exile_Unit_Player - 2 1369 - 3
+[09:14:23:670473 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:28:003980 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION FastNights]   Current in game time is 15 34 multipler is 4
+[09:14:28:004038 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:28:644854 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION HeliCrashes]  Initialised at 254.302
+[09:14:28:644901 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:28:645103 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION HeliCrashes]   worldname  Tanoa crashes to spawn  5
+[09:14:28:645135 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:32:306126 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION HeliCrashes] Crash 1   Location [12563.8,2445.93,0]
+[09:14:32:306191 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:39:852475 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION HeliCrashes] Crash 2   Location [5317.5,4792.55,0]
+[09:14:39:852553 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:40:257907 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | God Mode - ON
+[09:14:40:257987 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:42:666877 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | Teleport In Facing Direction (10m steps) - ON
+[09:14:42:666947 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:42:692258 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION HeliCrashes] Crash 3   Location [8465.07,9775.78,0]
+[09:14:42:692459 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:44:119646 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION RandomSpawn]  Starting Occupation Monitor @ 268.289
+[09:14:44:119706 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:47:043754 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION HeliCrashes] Crash 4   Location [5606.75,11859.2,0]
+[09:14:47:043829 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:14:49:486335 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION HeliCrashes] Crash 5   Location [10437.2,7860.47,0]
+[09:14:49:486385 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:04:267510 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | Restore - swemg(76561198003530549)
+[09:15:04:267598 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:10:639857 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | Restore - swemg(76561198003530549)
+[09:15:10:639922 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:11:739430 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | Restore - swemg(76561198003530549)
+[09:15:11:739488 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:19:828108 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) =======================================================================================================
+[09:15:19:828185 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:19:828570 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Started @ 303.241   [FPS  47.7612|PLAYERS  1|THREADS  7]
+[09:15:19:828643 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:19:829027 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) =======================================================================================================
+[09:15:19:829089 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:19:829579 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Process Counts  spawn-ed  6 execVM-ed  1 exec-ed  0 execFSM-ed  2
+[09:15:19:829634 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:19:830991 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["<spawn>","",true,5362] @ 303.241
+[09:15:19:831039 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:19:830995 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["<spawn>","",true,37] @ 303.241
+[09:15:19:831156 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:19:872727 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["<spawn>","",true,78] @ 303.241
+[09:15:19:872786 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:19:873239 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["<spawn>","",true,25] @ 303.283
+[09:15:19:873289 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:19:873712 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 303.283
+[09:15:19:873759 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:19:874133 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["ZCP_fnc_start","A3\functions_f\misc\fn_findSafePos.sqf",true,96] @ 303.283
+[09:15:19:874170 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:19:874581 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["BIS_fnc_sortNum","x\addons\a3_exile_occupation\scripts\startOccupation.sqf",true,119] @ 303.283
+[09:15:19:874628 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:19:875028 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active FSM  ["main.fsm","Wait",-303.283] @ 303.283
+[09:15:19:875078 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:19:913601 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active FSM  ["missions","Waiting",-303.283] @ 303.283
+[09:15:19:913676 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:19:914014 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Ended @ 303.325
+[09:15:19:914065 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:33:429667 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | spawning K40 Ababil-3 (CAS) (I_UAV_02_CAS_F) (NonPersistent)
+[09:15:33:429716 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:35:151553 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION FastNights]   Current in game time is 15 38 multipler is 4
+[09:15:35:151611 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:45:183555 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION RandomSpawn]  Starting Occupation Monitor @ 328.508
+[09:15:45:183637 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:49:903351 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION transport]  Starting @ 333.191
+[09:15:49:903437 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:50:455269 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION transport] Vehicle Exile_Chopper_Orca_BlackCustom spawned @ [7680,7680,200]
+[09:15:50:455341 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:50:455685 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION transport]  Found 5 markers to use as pickup points @ 333.781
+[09:15:50:455726 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:50:456025 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION transport]  textures for vehicle are  ["a3\air_f_heli\heli_light_02\data\heli_light_02_ext_opfor_v2_co.paa"]
+[09:15:50:456064 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:58:324322 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | Restore - swemg(76561198003530549)
+[09:15:58:324377 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:58:641990 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | Restore - swemg(76561198003530549)
+[09:15:58:642047 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:59:675904 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | Restore - swemg(76561198003530549)
+[09:15:59:675965 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:15:59:997516 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | Restore - swemg(76561198003530549)
+[09:15:59:997584 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:00:294754 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | Restore - swemg(76561198003530549)
+[09:16:00:294819 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:00:630433 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | Restore - swemg(76561198003530549)
+[09:16:00:630494 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:02:999724 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | Flip Vehicle - swemg(76561198003530549)
+[09:16:02:999788 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:04:113379 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | Flip Vehicle - swemg(76561198003530549)
+[09:16:04:113480 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:05:388214 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | Flip Vehicle - swemg(76561198003530549)
+[09:16:05:388286 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:06:111643 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION]  threads added at 347.926
+[09:16:06:111685 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:07:137042 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | Move In My Vehicle - swemg(76561198003530549)
+[09:16:07:137116 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:17:299894 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | Heal - swemg(76561198003530549)
+[09:16:17:299967 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:18:310631 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | Restore - swemg(76561198003530549)
+[09:16:18:310690 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:19:384123 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | Restore - swemg(76561198003530549)
+[09:16:19:384172 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:20:796005 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | Restore - swemg(76561198003530549)
+[09:16:20:796076 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:22:214303 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) =======================================================================================================
+[09:16:22:214353 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:22:214917 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Started @ 363.96   [FPS  48.3384|PLAYERS  1|THREADS  6]
+[09:16:22:214957 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:22:272594 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) =======================================================================================================
+[09:16:22:272667 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:22:273109 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Process Counts  spawn-ed  5 execVM-ed  1 exec-ed  0 execFSM-ed  2
+[09:16:22:273142 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:22:273584 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["<spawn>","",true,5362] @ 364.015
+[09:16:22:273617 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:22:274060 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["<spawn>","",true,37] @ 364.015
+[09:16:22:274097 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:22:274828 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["<spawn>","",true,78] @ 364.015
+[09:16:22:274878 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:22:275134 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["<spawn>","",true,25] @ 364.015
+[09:16:22:275172 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:22:275291 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 364.015
+[09:16:22:275322 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:22:293199 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["BIS_fnc_selectRandom","x\addons\a3_exile_occupation\scripts\occupationTransport.sqf",true,306] @ 364.015
+[09:16:22:293266 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:22:293598 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active FSM  ["main.fsm","Wait",-364.037] @ 364.037
+[09:16:22:293636 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:22:293909 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active FSM  ["missions","Waiting",-364.037] @ 364.037
+[09:16:22:294034 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:22:294229 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Ended @ 364.037
+[09:16:22:294264 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:37:533637 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION FastNights]   Current in game time is 15 42 multipler is 4
+[09:16:37:533712 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:47:461415 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | spawning MQ-4A Greyhawk (B_UAV_02_F) (NonPersistent)
+[09:16:47:461485 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:47:569599 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION RandomSpawn]  Starting Occupation Monitor @ 389.31
+[09:16:47:569661 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:48:834779 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | spawning K40 Ababil-3 (O_UAV_02_F) (NonPersistent)
+[09:16:48:834843 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:49:500346 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | spawning K40 Ababil-3 (I_UAV_02_F) (NonPersistent)
+[09:16:49:500398 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:50:100009 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | spawning MQ-4A Greyhawk (CAS) (B_UAV_02_CAS_F) (NonPersistent)
+[09:16:50:100083 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:16:50:713984 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | spawning K40 Ababil-3 (CAS) (O_UAV_02_CAS_F) (NonPersistent)
+[09:16:50:714045 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:17:23:139891 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) =======================================================================================================
+[09:17:23:139963 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:17:23:140306 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Started @ 424.722   [FPS  46.9208|PLAYERS  1|THREADS  6]
+[09:17:23:140363 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:17:23:140643 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) =======================================================================================================
+[09:17:23:140689 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:17:23:158419 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Process Counts  spawn-ed  5 execVM-ed  1 exec-ed  0 execFSM-ed  2
+[09:17:23:158483 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:17:23:158970 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["<spawn>","",true,5362] @ 424.743
+[09:17:23:159023 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:17:23:159377 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["<spawn>","",true,37] @ 424.743
+[09:17:23:159431 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:17:23:159772 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["<spawn>","",true,78] @ 424.743
+[09:17:23:159833 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:17:23:160200 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["<spawn>","",true,25] @ 424.743
+[09:17:23:160248 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:17:23:160635 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 424.743
+[09:17:23:160688 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:17:23:192201 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["BIS_fnc_selectRandom","x\addons\a3_exile_occupation\scripts\occupationTransport.sqf",true,302] @ 424.743
+[09:17:23:192284 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:17:23:193805 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active FSM  ["missions","Waiting",-424.775] @ 424.775
+[09:17:23:193861 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:17:23:193993 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Ended @ 424.775
+[09:17:23:194056 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:17:23:194302 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active FSM  ["main.fsm","Wait",-424.775] @ 424.775
+[09:17:23:194339 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:17:38:392982 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION FastNights]   Current in game time is 15 46 multipler is 4
+[09:17:38:393036 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:17:48:156116 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:ADMINLOG:swemg(76561198003530549) | Vehboost - ON
+[09:17:48:156191 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:17:48:416052 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION RandomSpawn]  Starting Occupation Monitor @ 449.999
+[09:17:48:416134 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:18:23:899417 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) =======================================================================================================
+[09:18:23:899481 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:18:23:899557 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Started @ 485.483   [FPS  47.4777|PLAYERS  1|THREADS  6]
+[09:18:23:899579 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:18:23:899952 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["<spawn>","",true,5362] @ 485.483
+[09:18:23:899980 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:18:23:900245 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["<spawn>","",true,37] @ 485.483
+[09:18:23:900270 --7:00] [Thread 6584] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:18:23:900425 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Process Counts  spawn-ed  5 execVM-ed  1 exec-ed  0 execFSM-ed  2
+[09:18:23:900586 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:18:23:900500 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) =======================================================================================================
+[09:18:23:900664 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:18:23:900642 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["<spawn>","",true,78] @ 485.483
+[09:18:23:900740 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:18:23:900875 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["<spawn>","",true,25] @ 485.483
+[09:18:23:900901 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:18:23:923128 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 485.483
+[09:18:23:923186 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:18:23:923359 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["BIS_fnc_selectRandom","x\addons\a3_exile_occupation\scripts\occupationTransport.sqf",true,306] @ 485.506
+[09:18:23:923400 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:18:23:923627 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active FSM  ["main.fsm","Wait",-485.506] @ 485.506
+[09:18:23:923660 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:18:23:923843 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active FSM  ["missions","Waiting",-485.506] @ 485.506
+[09:18:23:923868 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:18:23:924036 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Ended @ 485.506
+[09:18:23:924059 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:18:39:091211 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION FastNights]   Current in game time is 15 50 multipler is 4
+[09:18:39:091261 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:18:49:122005 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_OCCUPATION:V65 (30-08-2016) [OCCUPATION RandomSpawn]  Starting Occupation Monitor @ 510.708
+[09:18:49:122061 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:19:24:596367 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) =======================================================================================================
+[09:19:24:596440 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:19:24:596855 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Started @ 546.181   [FPS  44.5682|PLAYERS  1|THREADS  6]
+[09:19:24:596899 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:19:24:597173 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) =======================================================================================================
+[09:19:24:597230 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:19:24:597921 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Process Counts  spawn-ed  5 execVM-ed  1 exec-ed  0 execFSM-ed  2
+[09:19:24:597974 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:19:24:598182 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["<spawn>","",true,5362] @ 546.181
+[09:19:24:599379 --7:00] [Thread 976] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:19:24:599353 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["<spawn>","",true,37] @ 546.181
+[09:19:24:599473 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:19:24:620331 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["<spawn>","",true,78] @ 546.181
+[09:19:24:620417 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:19:24:620835 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["<spawn>","",true,25] @ 546.203
+[09:19:24:620881 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:19:24:621284 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 546.203
+[09:19:24:621331 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:19:24:621731 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active SQF  ["BIS_fnc_selectRandom","x\addons\a3_exile_occupation\scripts\occupationTransport.sqf",true,306] @ 546.203
+[09:19:24:621782 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:19:24:622547 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active FSM  ["main.fsm","Wait",-546.203] @ 546.203
+[09:19:24:622595 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:19:24:622976 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Active FSM  ["missions","Waiting",-546.203] @ 546.203
+[09:19:24:623025 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
+[09:19:24:646714 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String insert_infiSTARLog:A3_EXILE_PROCESSREPORTER:V65 (30-08-2016) [processReporter] Ended @ 546.227
+[09:19:24:646778 --7:00] [Thread 6840] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname insert_infiSTARLog
